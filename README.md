@@ -1,14 +1,11 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone Project: AI Squat Training Assistant
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone Project: Song Recommender
 
-### **Try Out AI Squat Streamlit Application by clicking the link below.**
-# [AI Squat Training Assistant](https://ai-squat-assistant.onrender.com/)
+### **Try Out Song Recommebder Streamlit Application by clicking the link below.**
+# [Song Recommender](streamlit link)
 Project management and planning documentation is done via Github Projects here: https://github.com/khammingfatt/project-5-ai-enhance-squat-form
 
 <br>
 
-| **The 'Rest' State** | **The 'Down' State**  |
-| ------------------------ | -----------------------  |
-| ![Alt text](https://github.com/khammingfatt/project-5-ai-enhance-squat-form/blob/main/images/Readme%20table%201.jpg?raw=true)| ![Alt text](https://github.com/khammingfatt/project-5-ai-enhance-squat-form/blob/main/images/Readme%20table%202.jpg?raw=true) |
 
 <br>
 
