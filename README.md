@@ -2,7 +2,7 @@
 
 ### **Try Out Song Recommebder Streamlit Application by clicking the link below.**
 # [Song Recommender](streamlit link)
-Project management and planning documentation is done via Github Projects here: https://github.com/khammingfatt/project-5-ai-enhance-squat-form
+Project management and planning documentation is done via Github Projects here: [githublink?]
 
 <br>
 
@@ -114,15 +114,7 @@ By employing this systematic approach, we aimed to enhance the quality and relia
 
 Leveraging the power of machine learning, we have developed an advanced predictive model to effectively correct the squat posture. We invite you to delve into the comprehensive details of our proposal outlined below, which showcase the technical prowess and formal methodologies employed in our solution.
 
-| **Prescription Messages** | **Mitigate Potential Injury**  |
-| ------------------------ | -----------------------  |
-|![Alt text](https://github.com/khammingfatt/project-5-ai-enhance-squat-form/blob/main/images/Squat%20Training.png?raw=true)|![Alt text](https://github.com/khammingfatt/project-5-ai-enhance-squat-form/blob/main/images/Prescriptions.jpg?raw=true) |
+
 
 <br>
-
-## (1) Learn Correct Squat **Independently**
-
-## (2) **Reduce** the chance of injury by performing squat correctly
-
-## (3) **Assess Your Squat Performance** everywhere 
 
