@@ -1,11 +1,6 @@
 streamlit
-pandas
-scikit-learn
----
-streamlit
-mediapipe
 numpy
-opencv-python-headless
-streamlit_webrtc
-protobuf==3.20.2
+pandas
+os
 scikit-learn
+matplotlib.pyplot
