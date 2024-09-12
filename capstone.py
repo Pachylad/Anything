@@ -10,9 +10,9 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 api_key =os.getenv("apikey")
 
-thirty_thou_dict = pickle.load(open("thirty_thou.pkl","rb"))
+thirty_thou_dict = pickle.load(open("thirty_thou_redu.pkl","rb"))
 thirty_thou = pd.DataFrame(thirty_thou_dict)
-thirtythou_new_dict = pickle.load(open("thirtythou_new.pkl","rb"))
+thirtythou_new_dict = pickle.load(open("thirtythou_new_redu.pkl","rb"))
 thirtythou_new = pd.DataFrame(thirtythou_new_dict)
 
 similarity = cosine_similarity(thirtythou_new)
