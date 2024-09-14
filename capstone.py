@@ -37,12 +37,8 @@ def recommend(song, artist):
 
 # ''' Frontend '''
 
-v = st.write(""" <h2> <b style="color:red"> MoviesWay</b> </h2>""",unsafe_allow_html=True)
-# st.header(v)
-# st.header(" :red[MoviesWay]")
-st.write("###")
 
-st.write(""" <p> Hii, welcome to <b style="color:red">Moviesway</b> this free movie recommendation engine suggests films based on your interest </p>""",unsafe_allow_html=True)
+st.write(""" <p> Song recommendation engine suggests songs based on your interest </p>""",unsafe_allow_html=True)
 st.write("##")
 my_expander = st.expander("Tap to Select a Song  🌐️")
 selected_song_name = my_expander.selectbox("",thirty_thou["track_name"].values)
@@ -65,14 +61,3 @@ if my_expander.button("Recommend"):
 #future release
 # with st.sidebar:
 #     st.write("Moviesway🍿")
-
-st.write("##")
-tab1 ,tab2 = st.tabs(["About","Working"])
-
-with tab1:
-    st.caption('This a Content Based Movie Recommendation System')
-    st.caption('In upcoming versions new movies would be added 😎')   #:blue[:sunglasses:]
-with tab2:
-    st.caption("It Contains Movie's from The Movie Data Base (TMDB)")
-    st.caption("For more infos and ⭐ at https://github.com/vikramr22/moviesway-v2 ")
-
