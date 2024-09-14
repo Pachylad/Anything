@@ -47,12 +47,13 @@ selected_artist_name = my_expander.selectbox("",thirty_thou["track_artist"].valu
 if my_expander.button("Recommend"):
     st.text("Here are few Recommendations..")
     st.write("#")
-    recommend(selected_song_name,selected_artist_name)
-#    col1,col2,col3,col4,col5=st.columns(5)
-#    cols=[col1,col2,col3,col4,col5]
-#    for i in range(0,5):
-#            with cols[i]:
-#                st.write(f' <b style="color:#E50914"> {names[i]} </b>',unsafe_allow_html=True)
+    songs, artists = recommend(selected_song_name,selected_artist_name)
+    col1,col2,col3,col4,col5=st.columns(5)
+    cols=[col1,col2,col3,col4,col5]
+    for i in range(0,5):
+            with cols[i]:
+                st.write(f' <b style="color:#E50914"> {songs[i]} </b>',unsafe_allow_html=True)
+                st.write(f' <b style="color:#E50914"> {artists[i]} </b>',unsafe_allow_html=True)
                 
 
 
