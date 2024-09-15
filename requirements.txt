@@ -2,5 +2,6 @@ streamlit
 numpy
 pandas
 os
+requests
+pickle
 scikit-learn
-matplotlib.pyplot
